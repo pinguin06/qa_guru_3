@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String str = "Learning Java Bas";
+        String str = "Learning Java Basics";
         System.out.println(str);
 
         byte a = 100;
