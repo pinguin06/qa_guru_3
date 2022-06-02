@@ -4,7 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Learning Java Basics");
+        String str = "Learning Java Bas";
+        System.out.println(str);
 
         byte a = 100;
         short b = -20000;
@@ -48,5 +49,6 @@ public class Main {
 
         System.out.println("Example 8: Max overflow = " + pMax * 2);
         System.out.println("Example 9: Min overflow = " + pMin * 2);
+
     }
 }
